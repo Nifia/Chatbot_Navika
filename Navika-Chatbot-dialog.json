@@ -1,0 +1,1551 @@
+{
+  "intents": [
+    {
+      "intent": "cuaca",
+      "examples": [
+        {
+          "text": "1. Pemantauan Cuaca Terkini"
+        },
+        {
+          "text": "Pemantauan Cuaca Terkini"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Anambas",
+      "examples": [
+        {
+          "text": "3. Pulau Anambas"
+        },
+        {
+          "text": "Pulau Anambas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Batam",
+      "examples": [
+        {
+          "text": "1. Pulau Batam"
+        },
+        {
+          "text": "Pulau Batam"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Bintan",
+      "examples": [
+        {
+          "text": "6. Pulau Bintan"
+        },
+        {
+          "text": "Pulau Bintan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Karimun",
+      "examples": [
+        {
+          "text": "2. Pulau Karimun"
+        },
+        {
+          "text": "Pulau Karimun"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Lingga",
+      "examples": [
+        {
+          "text": "4. Pulau Lingga"
+        },
+        {
+          "text": "Pulau Lingga"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cuaca_Tanjungpinang",
+      "examples": [
+        {
+          "text": "5. Pulau Tanjungpinang"
+        },
+        {
+          "text": "Pulau Tanjungpinang"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "penangkapan_ikan",
+      "examples": [
+        {
+          "text": "2. Informasi Penangkapan Ikan"
+        },
+        {
+          "text": "Informasi Penangkapan Ikan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_anambas",
+      "examples": [
+        {
+          "text": "3. Perairan Anambas"
+        },
+        {
+          "text": "Perairan Anambas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_batam",
+      "examples": [
+        {
+          "text": "1. Perairan Batam"
+        },
+        {
+          "text": "Perairan Batam"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_bintan",
+      "examples": [
+        {
+          "text": "6. Perairan Bintan"
+        },
+        {
+          "text": "Perairan Bintan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_karimun",
+      "examples": [
+        {
+          "text": "2. Perairan Karimun"
+        },
+        {
+          "text": "Perairan Karimun"
+        },
+        {
+          "text": "Pulau Karimun"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_lingga",
+      "examples": [
+        {
+          "text": "4. Perairan Lingga"
+        },
+        {
+          "text": "Perairan Lingga"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "perairan_tanjungpinang",
+      "examples": [
+        {
+          "text": "5. Perairan Tanjungpinang"
+        },
+        {
+          "text": "Perairan Tanjungpinang"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "response_pengaduan",
+      "examples": [
+        {
+          "text": "Ada kapal penangkap ikan asing yang masuk ke perairan Natuna tanpa izin."
+        },
+        {
+          "text": "Ada penangkapan ikan illegal"
+        },
+        {
+          "text": "Saya ingin melaporkan adanya pencemaran lingkungan akibat kebocoran minyak di perairan Tanjungpinang."
+        },
+        {
+          "text": "Saya ingin melaporkan aktivitas penangkapan ikan ilegal di perairan Kepulauan Riau."
+        },
+        {
+          "text": "Saya ingin melaporkan kerusakan lingkungan akibat penangkapan ikan di perairan Kepulauan Riau."
+        },
+        {
+          "text": "Saya ingin melaporkan penggunaan bahan peledak dalam penangkapan ikan di perairan Bintan."
+        },
+        {
+          "text": "Saya ingin melaporkan praktek penangkapan ikan berlebihan di perairan Lingga."
+        },
+        {
+          "text": "Saya ingin melaporkan tindakan penangkapan ikan yang merusak terumbu karang di perairan Anambas."
+        },
+        {
+          "text": "Saya mengalami konflik dengan nelayan lain di perairan Batam karena masalah hak penangkapan ikan."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sistem_pengaduan",
+      "examples": [
+        {
+          "text": "3. Sistem Pengaduan"
+        },
+        {
+          "text": "Sistem Pengaduan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tentang_navika",
+      "examples": [
+        {
+          "text": "4. Tentang Navika"
+        },
+        {
+          "text": "Tentang Navika"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "welcome",
+      "examples": [
+        {
+          "text": "hai"
+        },
+        {
+          "text": "halo"
+        },
+        {
+          "text": "halo navika"
+        },
+        {
+          "text": "hi"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Saya tidak mengerti. Anda dapat mencoba mengulang."
+              },
+              {
+                "text": "Bisakah Anda menulis ulang pernyataan Anda? Saya tidak mengerti."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1688560300637",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Sistem Pengaduan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jika Anda memiliki pengaduan terkait konflik dengan nelayan lain, silakan laporkan masalah tersebut melalui sistem pengaduan Navika. Anda dapat menjelaskan masalah yang Anda hadapi dan kami akan membantu mengoordinasikan respons terhadap masalah tersebut. Silakan berikan detail pengaduan Anda."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1688551533445"
+      },
+      "conditions": "#sistem_pengaduan",
+      "dialog_node": "node_10_1688551419507",
+      "previous_sibling": "node_4_1688548704813"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Pulau Batam:\n\n1. Perairan Nongsa: Perairan Nongsa di sebelah utara Pulau Batam dikenal sebagai area penangkapan ikan yang subur. Ikan-ikan seperti kakap merah, kerapu, dan ikan tenggiri sering kali ditemukan di daerah ini.\n\n2. Selat Singapore: Selat Singapore yang berada di sebelah selatan Pulau Batam juga merupakan lokasi yang banyak digunakan oleh nelayan untuk penangkapan ikan. Berbagai jenis ikan seperti ikan selar, sarden, dan cumi-cumi dapat ditemukan di sini.\n\n3. Perairan Sekupang: Perairan Sekupang di sebelah barat Pulau Batam memiliki potensi penangkapan ikan yang baik. Nelayan sering melaporkan penemuan ikan-ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n4. Perairan Barelang: Perairan Barelang yang menghubungkan Pulau Batam dengan Pulau Rempang dan Pulau Galang juga merupakan tempat yang sering dijadikan lokasi penangkapan ikan. Ikan-ikan seperti ikan belanak, ikan layang, dan ikan tenggiri sering ditemukan di sini.\n\n5. Perairan Tanjung Uma: Perairan Tanjung Uma di sebelah timur Pulau Batam juga memiliki potensi penangkapan ikan yang baik. Nelayan sering melaporkan penemuan ikan-ikan seperti ikan kembung, ikan bawal, dan ikan kerisi di daerah ini.\n\nHarap diingat bahwa kondisi penangkapan ikan dapat bervariasi tergantung pada musim, cuaca, dan faktor-faktor lainnya. Selalu perhatikan peraturan dan keberlanjutan sumber daya ikan saat melaut."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_batam",
+      "dialog_node": "node_1_1688549351474"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Perairan Pulau Anambas:\n\n1. Perairan Tarempa: Tarempa, ibu kota Kabupaten Kepulauan Anambas, terletak di Pulau Siantan dan dikelilingi oleh perairan yang kaya akan sumber daya ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n2. Pulau Bawah: Pulau Bawah, yang terletak di sebelah barat Pulau Anambas, juga merupakan lokasi yang menarik untuk penangkapan ikan. Anda dapat menemukan berbagai jenis ikan seperti selar, sarden, dan ikan tenggiri di perairan sekitar pulau ini.\n\n3. Perairan Pulau Penjalin: Perairan di sekitar Pulau Penjalin juga dikenal sebagai tempat yang potensial untuk penangkapan ikan. Nelayan melaporkan penemuan ikan-ikan seperti belanak, layang, dan kerapu di daerah ini.\n\n4. Pulau Jemaja: Pulau Jemaja, yang terletak di sebelah timur Pulau Anambas, juga memiliki perairan yang potensial untuk penangkapan ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kembung, ikan layang, dan cumi-cumi di perairan sekitar pulau ini.\n\nPastikan untuk selalu memperhatikan peraturan penangkapan ikan yang berlaku di wilayah tersebut dan menjaga keberlanjutan sumber daya ikan. Selamat mencari ikan yang melimpah di perairan sekitar Pulau Anambas!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_anambas",
+      "dialog_node": "node_1_1688549789801",
+      "previous_sibling": "node_6_1688549773145"
+    },
+    {
+      "type": "standard",
+      "title": "Response Sistem Pengaduan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Terima kasih telah melaporkan masalah tersebut. Tim kami akan meninjau laporan Anda dan mengambil tindakan yang sesuai. Jika diperlukan, kami akan menghubungi Anda untuk memperoleh informasi lebih lanjut. Apakah ada yang lain yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#response_pengaduan",
+      "dialog_node": "node_1_1688551533445",
+      "previous_sibling": "node_10_1688551419507"
+    },
+    {
+      "type": "standard",
+      "title": "Pemantauan Cuaca Terkini",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Untuk melihat perkiraan cuaca terkini, silakan berikan lokasi Anda atau nama pulau yang ingin Anda pantau."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Pilih daerah yang ingin anda ketahui :",
+            "options": [
+              {
+                "label": "Pulau Batam",
+                "value": {
+                  "input": {
+                    "text": "Pulau Batam"
+                  }
+                }
+              },
+              {
+                "label": "Pulau Karimun",
+                "value": {
+                  "input": {
+                    "text": "Pulau Karimun"
+                  }
+                }
+              },
+              {
+                "label": "Pulau Anambas",
+                "value": {
+                  "input": {
+                    "text": "Pulau Anambas"
+                  }
+                }
+              },
+              {
+                "label": "Pulau Lingga",
+                "value": {
+                  "input": {
+                    "text": "Pulau Lingga"
+                  }
+                }
+              },
+              {
+                "label": "Pulau Tanjungpinang",
+                "value": {
+                  "input": {
+                    "text": "Pulau Tanjungpinang"
+                  }
+                }
+              },
+              {
+                "label": "Pulau Bintan",
+                "value": {
+                  "input": {
+                    "text": "Pulau Bintan"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#cuaca",
+      "dialog_node": "node_2_1688546334800",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Anambas. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Anambas adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Anambas hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Anambas sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Anambas hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Anambas masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Anambas. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Anambas, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Anambas",
+      "dialog_node": "node_3_1688547976859",
+      "previous_sibling": "node_7_1688547689224"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Perairan Pulau Bintan:\n\n1. Perairan Tanjung Uban: Perairan di sekitar Tanjung Uban merupakan area yang sering digunakan oleh nelayan untuk penangkapan ikan. Anda dapat menemukan ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n2. Pulau Penyengat: Pulau Penyengat, yang terletak di dekat Pulau Bintan, juga menjadi lokasi yang menarik untuk penangkapan ikan. Anda dapat menemukan berbagai jenis ikan seperti selar, sarden, dan ikan tenggiri di perairan sekitar pulau ini.\n\n3. Perairan Teluk Lobam: Perairan di sekitar Teluk Lobam juga memiliki potensi penangkapan ikan yang baik. Nelayan melaporkan penemuan ikan-ikan seperti belanak, layang, dan kerapu di daerah ini.\n\n4. Perairan Tanjung Berakit: Perairan di sekitar Tanjung Berakit juga dikenal sebagai tempat yang potensial untuk penangkapan ikan. Anda dapat menemukan ikan-ikan seperti bawal, tenggiri, dan ikan pari di daerah ini.\n\n5. Perairan Pulau Lagoi: Perairan di sekitar Pulau Lagoi juga merupakan lokasi yang menarik untuk penangkapan ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kembung, ikan layang, dan cumi-cumi di daerah ini.\n\nPastikan untuk selalu memperhatikan peraturan penangkapan ikan yang berlaku di wilayah tersebut dan menjaga keberlanjutan sumber daya ikan. Selamat mencari ikan yang melimpah di perairan sekitar Pulau Bintan!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_bintan",
+      "dialog_node": "node_3_1688549826738",
+      "previous_sibling": "node_7_1688549815240"
+    },
+    {
+      "type": "standard",
+      "title": "Informasi Penangkapan Ikan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Untuk melihat informasi lokasi penangkapan ikan potensial, silakan berikan lokasi Anda atau nama pulau yang ingin Anda pantau."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Pilih daerah yang ingin anda ketahui :",
+            "options": [
+              {
+                "label": "Perairan Batam",
+                "value": {
+                  "input": {
+                    "text": "Perairan Batam"
+                  }
+                }
+              },
+              {
+                "label": "Perairan Karimun",
+                "value": {
+                  "input": {
+                    "text": "Perairan Karimun"
+                  }
+                }
+              },
+              {
+                "label": "Perairan Anambas",
+                "value": {
+                  "input": {
+                    "text": "Perairan Anambas"
+                  }
+                }
+              },
+              {
+                "label": "Perairan Lingga",
+                "value": {
+                  "input": {
+                    "text": "Perairan Lingga"
+                  }
+                }
+              },
+              {
+                "label": "Perairan Tanjungpinang",
+                "value": {
+                  "input": {
+                    "text": "Perairan Tanjungpinang"
+                  }
+                }
+              },
+              {
+                "label": "Perairan Bintan",
+                "value": {
+                  "input": {
+                    "text": "Perairan Bintan"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#penangkapan_ikan",
+      "dialog_node": "node_4_1688548704813",
+      "previous_sibling": "node_2_1688546334800"
+    },
+    {
+      "type": "standard",
+      "title": "Tentang Navika",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Navika adalah aplikasi chatbot yang dirancang khusus untuk membantu nelayan di Kepulauan Riau. Dengan fitur informasi pemantauan cuaca, informasi penangkapan ikan, dan sistem pengaduan, Navika bertujuan untuk memberikan aksesibilitas dan kemudahan dalam mendapatkan informasi yang relevan dan berguna bagi para nelayan.\n\nNavika hadir sebagai solusi yang praktis, terjangkau, dan mudah digunakan bagi nelayan di Kepulauan Riau. Navika diharapkan dapat meningkatkan keselamatan, efisiensi, dan keberlanjutan dalam aktivitas nelayan di daerah tersebut.\n\n© Nifia Syufriana"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#tentang_navika",
+      "dialog_node": "node_4_1688560300637",
+      "previous_sibling": "node_1_1688551533445"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Batam. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Batam adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Batam hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Batam sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Batam hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Batam masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Batam. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Batam, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Batam",
+      "dialog_node": "node_5_1688547156061"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Perairan Pulau Karimun:\n\n1. Perairan Tanjung Balai Karimun: Perairan di sekitar Tanjung Balai Karimun merupakan area yang cukup potensial untuk penangkapan ikan. Nelayan sering melaporkan penemuan ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n2. Pulau Kundur: Pulau Kundur, yang terletak di dekat Pulau Karimun, juga merupakan lokasi yang sering dijadikan tempat penangkapan ikan. Anda dapat menemukan berbagai jenis ikan seperti selar, sarden, dan ikan tenggiri di sekitar pulau ini.\n\n3. Perairan Tanjung Batu: Perairan di sekitar Tanjung Batu di Pulau Karimun juga memiliki potensi penangkapan ikan yang baik. Nelayan sering melaporkan penemuan ikan-ikan seperti belanak, layang, dan kerapu di daerah ini.\n\n4. Perairan Tanjung Berakit: Perairan di sekitar Tanjung Berakit juga merupakan tempat yang potensial untuk penangkapan ikan. Anda dapat menemukan ikan-ikan seperti bawal, tenggiri, dan ikan pari di daerah ini.\n\n5. Pulau Durai: Pulau Durai, yang berada di sekitar Pulau Karimun, juga menjadi lokasi yang menarik untuk penangkapan ikan. Nelayan melaporkan penemuan ikan-ikan seperti kembung, ikan layang, dan cumi-cumi di sekitar pulau ini.\n\nPastikan untuk selalu memperhatikan peraturan penangkapan ikan yang berlaku di wilayah tersebut dan menjaga keberlanjutan sumber daya ikan. Semoga Anda berhasil dalam penangkapan ikan di perairan sekitar Pulau Karimun!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_karimun",
+      "dialog_node": "node_6_1688549773145",
+      "previous_sibling": "node_1_1688549351474"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Karimun. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Karimun adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Karimun hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Karimun sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Karimun hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Karimun masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Karimun. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Karimun, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Karimun",
+      "dialog_node": "node_7_1688547689224",
+      "previous_sibling": "node_5_1688547156061"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Tanjungpinang. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Tanjungpinang adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Tanjungpinang hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Tanjungpinang sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Tanjungpinang hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Tanjungpinang masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Tanjungpinang. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Tanjungpinang, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Tanjungpinang",
+      "dialog_node": "node_7_1688548007611",
+      "previous_sibling": "node_8_1688547997371"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Bintan. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Bintan adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Bintan hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Bintan sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Bintan hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Bintan masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Bintan. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Bintan, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Bintan",
+      "dialog_node": "node_7_1688548025795",
+      "previous_sibling": "node_7_1688548007611"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Perairan Pulau Lingga:\n\n1. Perairan Singkep: Perairan di sekitar Pulau Singkep, yang merupakan bagian dari Kabupaten Lingga, merupakan area yang kaya akan sumber daya ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n2. Pulau Daik: Pulau Daik, yang terletak di dekat Pulau Lingga, juga merupakan lokasi yang menarik untuk penangkapan ikan. Anda dapat menemukan berbagai jenis ikan seperti selar, sarden, dan ikan tenggiri di perairan sekitar pulau ini.\n\n3. Perairan Pulau Senayang: Perairan di sekitar Pulau Senayang juga dikenal sebagai tempat yang potensial untuk penangkapan ikan. Nelayan melaporkan penemuan ikan-ikan seperti belanak, layang, dan kerapu di daerah ini.\n\n4. Perairan Pulau Singapura: Perairan di sekitar Pulau Singapura, yang berada di dekat Pulau Lingga, juga memiliki potensi penangkapan ikan yang baik. Anda dapat menemukan ikan-ikan seperti bawal, tenggiri, dan ikan pari di perairan sekitar pulau ini.\n\n5. Pulau Bakung: Pulau Bakung, yang terletak di sebelah timur Pulau Lingga, juga menjadi lokasi yang menarik untuk penangkapan ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kembung, ikan layang, dan cumi-cumi di perairan sekitar pulau ini.\n\nPastikan untuk selalu memperhatikan peraturan penangkapan ikan yang berlaku di wilayah tersebut dan menjaga keberlanjutan sumber daya ikan. Selamat mencari ikan yang melimpah di perairan sekitar Pulau Lingga!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_lingga",
+      "dialog_node": "node_7_1688549800817",
+      "previous_sibling": "node_1_1688549789801"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tentu! Saya akan mencarinya untuk Anda. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Berikut adalah beberapa lokasi penangkapan ikan yang potensial di sekitar Perairan Pulau Tanjungpinang:\n\n1. Perairan Tanjungpinang Timur: Perairan di sebelah timur Tanjungpinang merupakan area yang sering digunakan oleh nelayan untuk penangkapan ikan. Anda dapat menemukan ikan seperti kerapu, kakap, dan ikan pari di daerah ini.\n\n2. Pulau Dompak: Pulau Dompak, yang terletak di sekitar Tanjungpinang, juga menjadi lokasi yang menarik untuk penangkapan ikan. Anda dapat menemukan berbagai jenis ikan seperti selar, sarden, dan ikan tenggiri di perairan sekitar pulau ini.\n\n3. Perairan Teluk Bintan: Perairan di sekitar Teluk Bintan juga memiliki potensi penangkapan ikan yang baik. Nelayan melaporkan penemuan ikan-ikan seperti belanak, layang, dan kerapu di daerah ini.\n\n4. Perairan Pulau Penyengat: Perairan di sekitar Pulau Penyengat juga dikenal sebagai tempat yang potensial untuk penangkapan ikan. Anda dapat menemukan ikan-ikan seperti bawal, tenggiri, dan ikan pari di daerah ini.\n\n5. Perairan Pulau Sugi: Perairan di sekitar Pulau Sugi juga merupakan lokasi yang menarik untuk penangkapan ikan. Nelayan sering melaporkan penemuan ikan-ikan seperti kembung, ikan layang, dan cumi-cumi di daerah ini.\n\nPastikan untuk selalu memperhatikan peraturan penangkapan ikan yang berlaku di wilayah tersebut dan menjaga keberlanjutan sumber daya ikan. Selamat mencari ikan yang melimpah di perairan sekitar Pulau Tanjungpinang!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Apakah ada lagi yang bisa saya bantu?",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "description": "Pilih informasi apa yang ingin anda dapatkan :",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1688548704813",
+      "conditions": "#perairan_tanjungpinang",
+      "dialog_node": "node_7_1688549815240",
+      "previous_sibling": "node_7_1688549800817"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, saya akan memeriksa informasi cuaca di Pulau Lingga. Mohon tunggu sebentar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Cuaca saat ini di Pulau Lingga adalah cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada peringatan cuaca yang dikeluarkan saat ini. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Tidak ada perkiraan hujan di Pulau Lingga hari ini. Cuaca diprediksi akan tetap cerah sepanjang hari. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Suhu terkini di Pulau Lingga sekitar 28 derajat Celsius. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Hai! Cuaca di Pulau Lingga hari ini sedang cerah dengan suhu sekitar 30 derajat Celsius. Tidak ada laporan adanya hujan atau peringatan cuaca. Selamat melaut! Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini, cuaca di Pulau Lingga masih aman untuk melaut. Namun, di sekitar wilayah perairan terdapat kemungkinan hujan ringan. Tetap waspada dan perhatikan perkembangan cuaca saat di laut, ya!  Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Saat ini ada peringatan cuaca buruk di sekitar wilayah perairan Pulau Lingga. Terdapat kemungkinan badai dengan angin kencang dan gelombang tinggi. Disarankan untuk tidak melaut hingga cuaca membaik. Apakah ada lagi yang bisa saya bantu?"
+              },
+              {
+                "text": "Meskipun terjadi hujan di Pulau Lingga, perhatikan bahwa kondisi laut bisa berbahaya saat ini. Gelombang tinggi dan arus kuat dapat membuat melaut menjadi berisiko. Disarankan untuk menunda kegiatan melaut hingga cuaca dan kondisi laut membaik. Apakah ada lagi yang bisa saya bantu?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1688546334800",
+      "conditions": "#cuaca_Lingga",
+      "dialog_node": "node_8_1688547997371",
+      "previous_sibling": "node_3_1688547976859"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Halo! Saya Navika, asisten chatbot untuk nelayan di Kepulauan Riau. Saya siap membantu Anda dengan pemantauan cuaca, informasi penangkapan ikan, dan sistem pengaduan. Ada yang ingin Anda tanyakan?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Pilih informasi apa yang ingin anda dapatkan :",
+            "options": [
+              {
+                "label": "Pemantauan Cuaca Terkini",
+                "value": {
+                  "input": {
+                    "text": "Pemantauan Cuaca Terkini"
+                  }
+                }
+              },
+              {
+                "label": "Informasi Penangkapan Ikan",
+                "value": {
+                  "input": {
+                    "text": "Informasi Penangkapan Ikan"
+                  }
+                }
+              },
+              {
+                "label": "Sistem Pengaduan",
+                "value": {
+                  "input": {
+                    "text": "Sistem Pengaduan"
+                  }
+                }
+              },
+              {
+                "label": "Tentang Navika",
+                "value": {
+                  "input": {
+                    "text": "Tentang Navika"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "language": "xx",
+  "description": "created for assistant 1a6e4849-b026-42a3-aaba-be2f6601a155",
+  "name": "Navika Chatbot-dialog"
+}
