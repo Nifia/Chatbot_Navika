@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal - www.codingnepalweb.com -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Website Layout | CodingLab</title> 
+    <link rel="stylesheet" href="css/navika.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+<body>
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">Navika</a>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Feedback</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="img"></div>
+  <div class="center">
+    <div class="title">Selamat Datang di Navika!</div>
+    <div class="sub_title">Jelajahi Kepulauan Riau dengan informasi cuaca, penangkapan ikan, 
+        dan pengaduan yang mudah dengan bantuan kami</div>
+    <div class="btns">
+      <button>Learn More</button>
+      <button>Subscribe</button>
+    </div>
+  </div>
+
+  <script>
+    window.watsonAssistantChatOptions = {
+      integrationID: "109aa318-5a49-4757-bb0d-c6eaafdfb757", // The ID of this integration.
+      region: "au-syd", // The region your integration is hosted in.
+      serviceInstanceID: "1f78f198-2540-4017-b8ad-9e279a4cdf44", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+      document.head.appendChild(t);
+    });
+  </script>
+
+</body>
+</html>
