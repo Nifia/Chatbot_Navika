@@ -9,3 +9,4 @@ Navika is an intelligent chatbot specifically designed to assist fishermen in th
 ## Architecture Componenent
 ![flow](https://github.com/Nifia/Chatbot_Navika/assets/74465488/f057829f-c732-4341-9487-05a2a584a363)
 
+## Flow Description
