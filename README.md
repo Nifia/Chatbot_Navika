@@ -6,5 +6,6 @@ Navika adalah chatbot cerdas yang dirancang khusus untuk membantu nelayan di Kep
 
 Navika is an intelligent chatbot specifically designed to assist fishermen in the Riau Islands. Built using Watson Assistant, Navika provides features such as weather monitoring information, fishing catch information, and a complaint system. Fishermen can access Navika through their mobile devices to obtain information about weather conditions, early warnings, and sea wave conditions. Additionally, Navika provides data on potential fishing locations. If fishermen encounter issues such as fish theft or equipment damage, they can use Navika to report complaints quickly and easily. With its natural language understanding capabilities, Navika provides responsive interactions and understands the needs of the fishermen. Navika aims to enhance the safety, efficiency, and well-being of fishermen in the Riau Islands through the utilization of innovative AI technology.
 
-## Flow Description
+## Architecture Componenent
+![flow](https://github.com/Nifia/Chatbot_Navika/assets/74465488/f057829f-c732-4341-9487-05a2a584a363)
 
