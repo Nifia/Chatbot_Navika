@@ -10,3 +10,6 @@ Navika is an intelligent chatbot specifically designed to assist fishermen in th
 ![flow](https://github.com/Nifia/Chatbot_Navika/assets/74465488/f057829f-c732-4341-9487-05a2a584a363)
 
 ## Flow Description
+1. User mengakses Web Browser yang didalamnya sudah di integrasikan dengan HTML dan CSS.
+2. Sebelumnya, user dapat membuat struktur dasar halaman web menggunakan HTML dan CSS. Ini adalah tampilan dasar yang akan digunakan untuk menampilkan chatbot.
+3. Sambungkan dengan Watson Assistant: Dalam file JavaScript, tambahkan kode yang akan menghubungkan halaman web Anda dengan Watson Assistant. Anda akan menggunakan SDK Watson Assistant untuk berkomunikasi dengan API Watson Assistant. Pastikan untuk menyediakan kredensial API Watson Assistant yang valid.
